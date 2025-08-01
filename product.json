@@ -1,108 +1,162 @@
 [
   {
-    "title": "Smart Watch Pro",
-    "subtitle": "Track Everything",
-    "description": "Monitor your health and notifications with this sleek smartwatch.",
-    "price": "49",
-    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE1"
-  },
-  {
-    "title": "Wireless Earbuds",
-    "subtitle": "Crystal Clear Sound",
-    "description": "Experience immersive audio with noise cancellation.",
-    "price": "29",
-    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE2"
-  },
-  {
-    "title": "Portable Mini Fan",
-    "subtitle": "Cool On The Go",
-    "description": "Compact fan that keeps you cool wherever you are.",
-    "price": "19",
-    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE3"
-  },
-  {
-    "title": "LED Desk Lamp",
-    "subtitle": "Eye Comfort Lighting",
-    "description": "Adjustable brightness with a sleek modern design.",
-    "price": "34",
+    "title": "Product 1",
+    "tag": "Tag 1",
+    "description": "This is the description for product 1. It is an amazing gadget you’ll love.",
+    "price": "55",
     "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE4"
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE001"
   },
   {
-    "title": "Bluetooth Speaker",
-    "subtitle": "Booming Bass",
-    "description": "Loud and clear sound in a portable size.",
-    "price": "39",
-    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE5"
-  },
-  {
-    "title": "Fitness Tracker Band",
-    "subtitle": "Stay Active",
-    "description": "Count steps, calories, and monitor sleep.",
-    "price": "24",
-    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE6"
-  },
-  {
-    "title": "Wireless Charger Pad",
-    "subtitle": "Fast & Easy",
-    "description": "Charge your phone without cables.",
-    "price": "22",
-    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE7"
-  },
-  {
-    "title": "Laptop Cooling Stand",
-    "subtitle": "Cool & Ergonomic",
-    "description": "Prevent overheating and improve posture.",
-    "price": "33",
+    "title": "Product 2",
+    "tag": "Tag 2",
+    "description": "This is the description for product 2. It is an amazing gadget you’ll love.",
+    "price": "57",
     "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE8"
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE002"
   },
   {
-    "title": "USB-C Hub",
-    "subtitle": "Expand Your Ports",
-    "description": "Multiple ports for all your devices in one hub.",
-    "price": "27",
-    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE9"
-  },
-  {
-    "title": "Action Camera",
-    "subtitle": "Adventure Ready",
-    "description": "Capture HD footage of your outdoor experiences.",
-    "price": "59",
-    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE10"
-  },
-  {
-    "title": "Foldable Keyboard",
-    "subtitle": "Compact Typing",
-    "description": "Portable keyboard for typing on the go.",
-    "price": "31",
+    "title": "Product 3",
+    "tag": "Tag 3",
+    "description": "This is the description for product 3. It is an amazing gadget you’ll love.",
+    "price": "73",
     "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE11"
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE003"
   },
   {
-    "title": "Smart LED Bulb",
-    "subtitle": "Voice Control",
-    "description": "Control lighting with your smartphone or Alexa.",
+    "title": "Product 4",
+    "tag": "Tag 4",
+    "description": "This is the description for product 4. It is an amazing gadget you’ll love.",
+    "price": "83",
+    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE004"
+  },
+  {
+    "title": "Product 5",
+    "tag": "Tag 5",
+    "description": "This is the description for product 5. It is an amazing gadget you’ll love.",
+    "price": "60",
+    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE005"
+  },
+  {
+    "title": "Product 6",
+    "tag": "Tag 6",
+    "description": "This is the description for product 6. It is an amazing gadget you’ll love.",
+    "price": "63",
+    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE006"
+  },
+  {
+    "title": "Product 7",
+    "tag": "Tag 7",
+    "description": "This is the description for product 7. It is an amazing gadget you’ll love.",
+    "price": "94",
+    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE007"
+  },
+  {
+    "title": "Product 8",
+    "tag": "Tag 8",
+    "description": "This is the description for product 8. It is an amazing gadget you’ll love.",
+    "price": "25",
+    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE008"
+  },
+  {
+    "title": "Product 9",
+    "tag": "Tag 9",
+    "description": "This is the description for product 9. It is an amazing gadget you’ll love.",
+    "price": "56",
+    "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE009"
+  },
+  {
+    "title": "Product 10",
+    "tag": "Tag 10",
+    "description": "This is the description for product 10. It is an amazing gadget you’ll love.",
+    "price": "32",
+    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE010"
+  },
+  {
+    "title": "Product 11",
+    "tag": "Tag 11",
+    "description": "This is the description for product 11. It is an amazing gadget you’ll love.",
+    "price": "66",
+    "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE011"
+  },
+  {
+    "title": "Product 12",
+    "tag": "Tag 12",
+    "description": "This is the description for product 12. It is an amazing gadget you’ll love.",
+    "price": "35",
+    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE012"
+  },
+  {
+    "title": "Product 13",
+    "tag": "Tag 13",
+    "description": "This is the description for product 13. It is an amazing gadget you’ll love.",
     "price": "18",
-    "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE12"
+    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE013"
   },
   {
-    "title": "Gaming Mouse",
-    "subtitle": "Precision Performance",
-    "description": "Custom DPI settings and RGB lighting.",
-    "price": "28",
+    "title": "Product 14",
+    "tag": "Tag 14",
+    "description": "This is the description for product 14. It is an amazing gadget you’ll love.",
+    "price": "68",
     "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
-    "link": "https://www.amazon.in/dp/B00EXAMPLE13"
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE014"
   },
   {
-    "title": "Ring Light",
-    "subti
+    "title": "Product 15",
+    "tag": "Tag 15",
+    "description": "This is the description for product 15. It is an amazing gadget you’ll love.",
+    "price": "41",
+    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE015"
+  },
+  {
+    "title": "Product 16",
+    "tag": "Tag 16",
+    "description": "This is the description for product 16. It is an amazing gadget you’ll love.",
+    "price": "70",
+    "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SY300_SX300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE016"
+  },
+  {
+    "title": "Product 17",
+    "tag": "Tag 17",
+    "description": "This is the description for product 17. It is an amazing gadget you’ll love.",
+    "price": "62",
+    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE017"
+  },
+  {
+    "title": "Product 18",
+    "tag": "Tag 18",
+    "description": "This is the description for product 18. It is an amazing gadget you’ll love.",
+    "price": "91",
+    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX300_SY300_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE018"
+  },
+  {
+    "title": "Product 19",
+    "tag": "Tag 19",
+    "description": "This is the description for product 19. It is an amazing gadget you’ll love.",
+    "price": "88",
+    "image": "https://m.media-amazon.com/images/I/31YrZL046rL._SY445_SX342_QL70_FMwebp_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE019"
+  },
+  {
+    "title": "Product 20",
+    "tag": "Tag 20",
+    "description": "This is the description for product 20. It is an amazing gadget you’ll love.",
+    "price": "47",
+    "image": "https://m.media-amazon.com/images/I/61Brhn4WBIL._SX679_.jpg",
+    "buyLink": "https://www.amazon.in/dp/EXAMPLE020"
+  }
+]
