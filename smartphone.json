@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Apple iPhone 15 Pro Max",
+    "subtitle": "Apple",
+    "description": "6.7-inch display, A17 Pro chip, Titanium design.",
+    "price": "1399",
+    "image": "https://m.media-amazon.com/images/I/81CgtwSII3L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CHX5V3XN"
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra",
+    "subtitle": "Samsung",
+    "description": "6.8-inch QHD+ display, Snapdragon 8 Gen 3, 200MP camera.",
+    "price": "1299",
+    "image": "https://m.media-amazon.com/images/I/71qGismu6NL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CQK4FZCH"
+  },
+  {
+    "title": "OnePlus 12 5G",
+    "subtitle": "OnePlus",
+    "description": "Snapdragon 8 Gen 2, 50MP triple camera, 100W charging.",
+    "price": "799",
+    "image": "https://m.media-amazon.com/images/I/71Tlb+dXWbL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CQKS37GY"
+  },
+  {
+    "title": "Google Pixel 8 Pro",
+    "subtitle": "Google",
+    "description": "6.7\" Super Actua display, Tensor G3 chip, AI camera.",
+    "price": "1099",
+    "image": "https://m.media-amazon.com/images/I/71T2F6tGfDL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CKN9G88Q"
+  },
+  {
+    "title": "Nothing Phone (2)",
+    "subtitle": "Nothing",
+    "description": "Glyph interface, 6.7\" OLED, Snapdragon 8+ Gen 1.",
+    "price": "699",
+    "image": "https://m.media-amazon.com/images/I/81CgtwSII3L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CCGTJ4KX"
+  },
+  {
+    "title": "iQOO Neo 7 Pro 5G",
+    "subtitle": "iQOO",
+    "description": "Snapdragon 8+ Gen 1, 120W charging, AMOLED display.",
+    "price": "499",
+    "image": "https://m.media-amazon.com/images/I/61IiuWQcVjL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0C7C3FFLK"
+  },
+  {
+    "title": "Realme Narzo 60 5G",
+    "subtitle": "Realme",
+    "description": "Dimensity 6020, 64MP camera, 120Hz AMOLED.",
+    "price": "299",
+    "image": "https://m.media-amazon.com/images/I/81xL5ftYcKL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0C9JY5Z3D"
+  },
+  {
+    "title": "Motorola Edge 40 Neo",
+    "subtitle": "Motorola",
+    "description": "Dimensity 7030, IP68, 144Hz pOLED display.",
+    "price": "349",
+    "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CHXH77DY"
+  },
+  {
+    "title": "Lava Blaze 5G",
+    "subtitle": "Lava",
+    "description": "Budget 5G with glass back and clean Android UI.",
+    "price": "149",
+    "image": "https://m.media-amazon.com/images/I/51OwGVQfMUL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BMMZCHTZ"
+  },
+  {
+    "title": "POCO X5 Pro 5G",
+    "subtitle": "POCO",
+    "description": "Snapdragon 778G, 108MP camera, 67W charging.",
+    "price": "349",
+    "image": "https://m.media-amazon.com/images/I/41JHqpODFgL._SX300_SY300_QL70_FMwebp_.jpg",
+    "link": "https://www.amazon.in/dp/B0BQJLCZ7L"
+  }
+]
