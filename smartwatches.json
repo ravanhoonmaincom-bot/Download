@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Apple Watch Series 9",
+    "subtitle": "Apple",
+    "description": "Always-On Retina display, GPS, S9 chip.",
+    "price": "399",
+    "image": "https://m.media-amazon.com/images/I/81myZ8V2H7L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CHX2F5QM"
+  },
+  {
+    "title": "Samsung Galaxy Watch 6",
+    "subtitle": "Samsung",
+    "description": "AMOLED, Wear OS, Advanced Sleep Tracking.",
+    "price": "349",
+    "image": "https://m.media-amazon.com/images/I/81dTtHT8+1L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CCX12Y2X"
+  },
+  {
+    "title": "Noise ColorFit Pro 5",
+    "subtitle": "Noise",
+    "description": "1.85\" AMOLED, Bluetooth Calling, SpO2 monitor.",
+    "price": "49",
+    "image": "https://m.media-amazon.com/images/I/51hGcT8CCxL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CC3CDQLX"
+  },
+  {
+    "title": "boAt Ultima Chronos",
+    "subtitle": "boAt",
+    "description": "1.96\" AMOLED, DIY Watch Face Studio.",
+    "price": "59",
+    "image": "https://m.media-amazon.com/images/I/61U05iqkxlL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CN88MCHD"
+  },
+  {
+    "title": "Fire-Boltt Phoenix Ultra",
+    "subtitle": "Fire-Boltt",
+    "description": "Stainless Steel, 1.39\" AMOLED, AI Voice.",
+    "price": "69",
+    "image": "https://m.media-amazon.com/images/I/61TbT4G8JXL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0CFZK5ZFR"
+  },
+  {
+    "title": "Fastrack Reflex Play+",
+    "subtitle": "Fastrack",
+    "description": "AMOLED, Alexa built-in, Heart rate & SpO2.",
+    "price": "79",
+    "image": "https://m.media-amazon.com/images/I/61OlSwHb3cL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BBNVBCM6"
+  },
+  {
+    "title": "Titan Smart 3",
+    "subtitle": "Titan",
+    "description": "Aluminum body, 100+ watch faces, Always-on.",
+    "price": "89",
+    "image": "https://m.media-amazon.com/images/I/71J26rDblhL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BQKX32NM"
+  },
+  {
+    "title": "Garmin Forerunner 255",
+    "subtitle": "Garmin",
+    "description": "Multisport watch, GPS, Heart Rate, VO2 Max.",
+    "price": "299",
+    "image": "https://m.media-amazon.com/images/I/61FxFOT8pmL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0B8CQPKR8"
+  },
+  {
+    "title": "Amazfit GTS 4",
+    "subtitle": "Amazfit",
+    "description": "Alexa built-in, GPS, 1.75\" AMOLED display.",
+    "price": "179",
+    "image": "https://m.media-amazon.com/images/I/61pS4ZRi0rL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BHTZ7PXT"
+  },
+  {
+    "title": "Fire-Boltt Invincible Plus",
+    "subtitle": "Fire-Boltt",
+    "description": "Bluetooth Calling, 4GB storage, TWS support.",
+    "price": "129",
+    "image": "https://m.media-amazon.com/images/I/61bRqaZ82nL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BV36WRXL"
+  }
+]
