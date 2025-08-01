@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Samsung 55-inch Crystal 4K UHD TV",
+    "subtitle": "Samsung",
+    "description": "4K HDR Smart TV with Crystal Processor 4K.",
+    "price": "649",
+    "image": "https://m.media-amazon.com/images/I/81TjRLHaz1L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B09TQ24V97"
+  },
+  {
+    "title": "Sony Bravia 55-inch 4K Ultra HD Smart TV",
+    "subtitle": "Sony",
+    "description": "Google TV, Dolby Vision, Alexa compatibility.",
+    "price": "899",
+    "image": "https://m.media-amazon.com/images/I/81FG8u9p8YL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BRZWTYN5"
+  },
+  {
+    "title": "LG 43-inch 4K UHD Smart LED TV",
+    "subtitle": "LG",
+    "description": "WebOS, Active HDR, AI Sound, 2023 model.",
+    "price": "499",
+    "image": "https://m.media-amazon.com/images/I/81eBdQy+y0L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0C1DMY8RS"
+  },
+  {
+    "title": "TCL 50-inch 4K Smart QLED TV",
+    "subtitle": "TCL",
+    "description": "QLED display, Dolby Vision & Atmos.",
+    "price": "549",
+    "image": "https://m.media-amazon.com/images/I/91VteBrxzJL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BSJ29XTX"
+  },
+  {
+    "title": "Redmi 43-inch 4K Ultra HD Smart TV",
+    "subtitle": "Redmi",
+    "description": "Dolby Vision, Android TV 10, PatchWall.",
+    "price": "369",
+    "image": "https://m.media-amazon.com/images/I/61tuEJ+tz9L._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0C2MZW52H"
+  },
+  {
+    "title": "OnePlus Y Series 50-inch 4K TV",
+    "subtitle": "OnePlus",
+    "description": "Android TV 10, 24W Dolby Audio, bezel-less.",
+    "price": "429",
+    "image": "https://m.media-amazon.com/images/I/71WIMUu3dbL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0C2MZH62P"
+  },
+  {
+    "title": "VU 55-inch 4K Smart LED TV",
+    "subtitle": "VU",
+    "description": "120Hz Refresh Rate, Dolby Audio.",
+    "price": "479",
+    "image": "https://m.media-amazon.com/images/I/81V2mHF63tL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B09V4GRV1M"
+  },
+  {
+    "title": "Acer 50-inch 4K Ultra HD Smart TV",
+    "subtitle": "Acer",
+    "description": "HDR10+, Dolby Vision/Atmos, Android TV.",
+    "price": "399",
+    "image": "https://m.media-amazon.com/images/I/71KCRyCfcFL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B0BSG6QTH5"
+  },
+  {
+    "title": "Hisense 43-inch 4K Smart TV",
+    "subtitle": "Hisense",
+    "description": "Dolby Vision, Android TV, 24W speakers.",
+    "price": "349",
+    "image": "https://m.media-amazon.com/images/I/81LZZpW2iLL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B097Y8JHJK"
+  },
+  {
+    "title": "iFFALCON 43-inch 4K Ultra HD TV",
+    "subtitle": "iFFALCON",
+    "description": "Smart Android TV, Dolby Audio, HDR10.",
+    "price": "299",
+    "image": "https://m.media-amazon.com/images/I/81s34KR0yqL._SX679_.jpg",
+    "link": "https://www.amazon.in/dp/B09H32NH35"
+  }
+]
